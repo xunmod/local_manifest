@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/cyanogen/mt6735-common" name="LineageOS/android_device_cyanogen_mt6735-common" revision="cm-13.0" />
+  <project path="device/cyanogen/mt6735-common" name="LineageOS/android_device_cyanogen_mt6735-common" />
   <project path="device/GIONEE/gionee6735_65c_l1" name="xunmod/android_device_GIONEE_gionee6735_65c_l1" />
-  <project path="vendor/GIONEE/gionee6735_65c_l1" name="xunmod/android_vendor_GIONEE_gionee6735_65c_l1" />
+  <project path="vendor/GIONEE/gionee6735_65c_l1" name="xunmod/android_vendor_GIONEE_gionee6735_65c_l1" revision="cm-12.1" />
 </manifest>
